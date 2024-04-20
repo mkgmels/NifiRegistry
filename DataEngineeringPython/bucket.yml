@@ -1,0 +1,12 @@
+flows:
+  365f2fac-9bf6-420d-8885-df3294d358d1:
+    ver: 5
+    file: scf-flow.snapshot
+    comments: |
+      Removed a processor for new warehouse
+    author: anonymous
+    created: 1713648053730
+    flowName: scf-flow
+    flowDesc: ''
+layoutVer: 1
+bucketId: 6028c611-b4bb-436c-9ba8-eec982aa5325
